@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Kavin-Maziya
-- 👀 I’m interested in SoftWare Develepment
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Software Development programs
-- 📫 How to reach me kavinmaziya256@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hello World
+### Hi, I'm Kavin 👋
 
-<!---
-Kavin-Maziya/Kavin-Maziya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Development trainee at [Bitcube](https://bitcube.tech), building full-stack web and mobile applications. Diploma in IT (Software Development) from Central University of Technology, Free State.
+
+- 🚀 Currently building **CareerHub** — a full-stack job board platform:
+  - Backend: ASP.NET Core Web API (.NET 10), PostgreSQL, EF Core, JWT auth — [repo](https://github.com/Kavin-Maziya/CareerHub)
+  - Frontend: Next.js 16, React 19, TypeScript, TanStack Query — [repo](https://github.com/Kavin-Maziya/CareerHub_FrontEnd)
+  - Deployed on Render + Vercel
+- 📱 Learning Flutter/Dart for cross-platform mobile development
+- 🔧 Comfortable across the stack: C#, ASP.NET Core, SQL/PostgreSQL, React, Next.js, Git/CI-CD, Docker
+- 🌱 Always picking up new domains fast — currently exploring geospatial/data-driven products
+- 💬 Open to collaborating on software development projects
+- 📫 Reach me at kavinmaziya256@gmail.com
