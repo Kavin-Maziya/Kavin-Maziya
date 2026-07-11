@@ -8,6 +8,6 @@ Software Development trainee at [Bitcube](https://bitcube.tech), building full-s
   - Deployed on Render + Vercel
 - 📱 Learning Flutter/Dart for cross-platform mobile development
 - 🔧 Comfortable across the stack: C#, ASP.NET Core, SQL/PostgreSQL, React, Next.js, Git/CI-CD, Docker
-- 🌱 Always picking up new domains fast — currently exploring geospatial/data-driven products
+- 🌱 Always picking up new domains fast — currently exploring technology driven programming languages like Python, Flutter, Typescript and Java
 - 💬 Open to collaborating on software development projects
 - 📫 Reach me at kavinmaziya256@gmail.com
